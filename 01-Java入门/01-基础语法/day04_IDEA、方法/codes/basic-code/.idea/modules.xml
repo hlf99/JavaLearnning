@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day04-code/day04-code.iml" filepath="$PROJECT_DIR$/day04-code/day04-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/day05-code.iml" filepath="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/day05-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/day06-code.iml" filepath="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/day06-code.iml" />
     </modules>
   </component>
 </project>
