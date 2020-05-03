@@ -10,20 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Demo04ArrayListReturn.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day07_Scanner类、Random类、ArrayList类/codes/day07-code/src/xw/day07/demo05/Demo04ArrayListReturn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +18,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PI</find>
+    </findStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -40,26 +32,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo01ArrayIndex.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo02ArrayNull.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo03ArrayLength.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo04Array.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo05ArrayMax.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo07ArrayReverse.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo04/Demo01ArrayParam.java" />
-        <option value="$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo04/Demo02ArrayReturn.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo01/Demo01PrintArray.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo01/Student.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo01/Demo02Student.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Phone.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo01PhoneOne.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo02PhoneTwo.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo03PhoneSame.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo04PhoneParam.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo05PhoneReturn.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo01VariableDifference.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo02Method.java" />
-        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo03Person.java" />
         <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Person.java" />
         <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Student.java" />
         <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo04Student.java" />
@@ -91,6 +63,26 @@
         <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day07_Scanner类、Random类、ArrayList类/codes/day07-code/src/xw/day07/demo05/Demo02ArrayListStudent.java" />
         <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day07_Scanner类、Random类、ArrayList类/codes/day07-code/src/xw/day07/demo05/Demo03ArrayListPrint.java" />
         <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day07_Scanner类、Random类、ArrayList类/codes/day07-code/src/xw/day07/demo05/Demo04ArrayListReturn.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo01/Demo01String.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo01/Demo02StringPool.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo01StringEquals.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo02StringGet.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo03Substring.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo04StringConvert.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo05StringSplit.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo06Practice.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo07StringCount.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Student.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo01StaticField.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo02StaticMethod.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/MyClass.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo03StaticStudent.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Person.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo04StaticBlock.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo01Arrays.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo02ArraysPractice.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo03Math.java" />
+        <option value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo04MathPractice.java" />
       </list>
     </option>
   </component>
@@ -101,8 +93,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="33" />
-    <option name="y" value="44" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
@@ -121,39 +113,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day09-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day07" type="462c0819:PsiDirectoryNode" />
-              <item name="demo05" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,8 +150,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day07_Scanner类、Random类、ArrayList类/codes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../02-面向对象与常见类/day09_继承、super、this、抽象类/codes" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaLearnning/01-Java入门/02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo06Practice.java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo04ArrayListReturn">
+  <component name="RunManager" selected="Application.Demo04MathPractice">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -188,14 +174,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Demo01ArrayListRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo01Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.day07.demo05.*" />
+          <option name="PATTERN" value="xw.day08.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.day07.demo05.Demo01ArrayListRandom" />
+      <option name="MAIN_CLASS_NAME" value="xw.day08.demo04.Demo01Arrays" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -204,17 +190,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day07-code" />
+      <module name="day08-code" />
       <envs />
     </configuration>
-    <configuration name="Demo02ArrayListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo02ArraysPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.day07.demo05.*" />
+          <option name="PATTERN" value="xw.day08.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.day07.demo05.Demo02ArrayListStudent" />
+      <option name="MAIN_CLASS_NAME" value="xw.day08.demo04.Demo02ArraysPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -223,17 +209,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day07-code" />
+      <module name="day08-code" />
       <envs />
     </configuration>
-    <configuration name="Demo03ArrayListPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo03Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.day07.demo05.*" />
+          <option name="PATTERN" value="xw.day08.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.day07.demo05.Demo03ArrayListPrint" />
+      <option name="MAIN_CLASS_NAME" value="xw.day08.demo04.Demo03Math" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -242,17 +228,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day07-code" />
+      <module name="day08-code" />
       <envs />
     </configuration>
-    <configuration name="Demo04ArrayListReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo04MathPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.day07.demo05.*" />
+          <option name="PATTERN" value="xw.day08.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.day07.demo05.Demo04ArrayListReturn" />
+      <option name="MAIN_CLASS_NAME" value="xw.day08.demo04.Demo04MathPractice" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -261,17 +247,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day07-code" />
+      <module name="day08-code" />
       <envs />
     </configuration>
-    <configuration name="Demo05ArrayListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo04StaticBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.day07.demo04.*" />
+          <option name="PATTERN" value="xw.day08.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.day07.demo04.Demo05ArrayListBasic" />
+      <option name="MAIN_CLASS_NAME" value="xw.day08.demo03.Demo04StaticBlock" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -280,7 +266,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day07-code" />
+      <module name="day08-code" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -358,19 +344,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Demo05ArrayListBasic" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo01ArrayListRandom" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Demo02ArrayListStudent" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Demo03ArrayListPrint" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Demo04ArrayListReturn" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Demo04StaticBlock" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Demo01Arrays" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo02ArraysPractice" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Demo03Math" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo04MathPractice" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Demo04ArrayListReturn" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo03ArrayListPrint" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo02ArrayListStudent" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo01ArrayListRandom" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo05ArrayListBasic" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo04MathPractice" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo03Math" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo02ArraysPractice" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo01Arrays" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo04StaticBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -406,11 +392,17 @@
       <workItem from="1588227046924" duration="1648000" />
       <workItem from="1588235880742" duration="735000" />
       <workItem from="1588297217707" duration="8866000" />
+      <workItem from="1588320743207" duration="497000" />
+      <workItem from="1588337813869" duration="2299000" />
+      <workItem from="1588372325729" duration="17729000" />
+      <workItem from="1588414274611" duration="5038000" />
+      <workItem from="1588425395399" duration="2061000" />
+      <workItem from="1588477983896" duration="6248000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96090000" />
+    <option name="totallyTimeSpent" value="129962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -433,7 +425,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28503937" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2976378" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -465,160 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo01ArrayIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo02ArrayNull.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="42" lean-forward="false" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo03ArrayLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo04Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo05ArrayMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo03/Demo07ArrayReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo04/Demo01ArrayParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day05_数组/codes/day05-code/src/xw/day05/demo04/Demo02ArrayReturn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo01/Demo01PrintArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo01/Demo02Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo01PhoneOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo02PhoneTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo03PhoneSame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo05PhoneReturn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo02/Demo04PhoneParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo01/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo01VariableDifference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo02Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo03Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Demo04Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day06_类与对象、封装、构造方法/codes/day06-code/src/xw/day06/demo03/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -749,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,16 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#251#252#0" expanded="false" />
-            <element signature="e#278#279#0" expanded="false" />
-            <element signature="e#318#319#0" expanded="false" />
-            <element signature="e#350#351#0" expanded="false" />
-            <element signature="e#377#378#0" expanded="false" />
-            <element signature="e#403#404#0" expanded="false" />
-            <element signature="e#438#439#0" expanded="false" />
-            <element signature="e#468#469#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
           <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="15" lean-forward="false" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="41" column="50" lean-forward="false" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,9 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
           <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -824,16 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,17 +650,171 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day07_Scanner类、Random类、ArrayList类/codes/day07-code/src/xw/day07/demo05/Demo04ArrayListReturn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="430">
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo01/Demo01String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo01/Demo02StringPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo03Substring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo02StringGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo01StringEquals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="35" lean-forward="false" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JavaEE_Enviroment/JDK9/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo04StringConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo05StringSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo06Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo02/Demo07StringCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo01StaticField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo02StaticMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo03StaticStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Demo04StaticBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo03/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo01Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo02ArraysPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JavaEE_Enviroment/JDK9/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="124" column="43" lean-forward="false" selection-start-line="124" selection-start-column="43" selection-end-line="124" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo03Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../02-面向对象与常见类/day08_String类、static、Arrays类、Math类/codes/day08-code/src/xw/day08/demo04/Demo04MathPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="24" column="46" lean-forward="true" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
