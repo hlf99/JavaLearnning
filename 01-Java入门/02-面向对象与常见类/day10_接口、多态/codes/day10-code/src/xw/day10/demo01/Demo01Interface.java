@@ -31,6 +31,7 @@ package xw.day10.demo01;
 * }
 * 2. 接口的实现类必须覆盖重写（实现）接口中所有的抽象方法。
 * 实现：去掉abstract关键字，加上方法体大括号。
+*
 * 3. 创建实现类的对象，进行使用。
 *
 * 注意事项：
@@ -40,13 +41,13 @@ package xw.day10.demo01;
 public class Demo01Interface {
     public static void main(String[] args) {
         // 错误写法，不能直接new接口对象使用
-//        MyInterfaceAbstract inter = new MyInterfaceAbstract();
+//        MyInterfaceAbstract impl = new MyInterfaceAbstract();
 
         // 创建实现类的对象使用
-        MyInterfaceAbstractImpl inter = new MyInterfaceAbstractImpl();
-        inter.methodAbs1();
-        inter.methodAbs2();
-        inter.methodAbs3();
-        inter.methodAbs4();
+        MyInterfaceAbstractImpl impl = new MyInterfaceAbstractImpl();
+        impl.methodAbs1();
+        impl.methodAbs2();
+        impl.methodAbs3();
+        impl.methodAbs4();
     }
 }
