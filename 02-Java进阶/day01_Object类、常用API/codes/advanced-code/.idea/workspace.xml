@@ -26,24 +26,32 @@
     <favorites_list name="advanced-code" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DouDiZhu.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes/day04-code/src/xw/Map/demo06/DouDiZhu.java">
+    <leaf>
+      <file leaf-file-name="Demo01MainThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo05/Demo01MainThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="111" column="29" lean-forward="true" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="316">
+              <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DouDiZhu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo04/DouDiZhu.java">
+      <file leaf-file-name="Demo01Thread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo06/Demo01Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            <state relative-caret-position="291">
+              <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo06/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -66,24 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo04/Demo01Calendar.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo04/Demo02Calendar.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo05/Demo01System.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo06/Demo01StringBuilder.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo06/Demo02StringBuilder.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo06/Demo03StringBuilder.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo07/Demo01Integer.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo07/Demo02Integer.java" />
-        <option value="$PROJECT_DIR$/day01-code/src/xw/API/demo07/Demo03Integer.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo01/Demo01Collection.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo02/Demo01Iterator.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo02/Demo02ForEach.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo01Generic.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericClass.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo02GenericClass.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericMethod.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo03GenericMethod.java" />
-        <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericInterface.java" />
         <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericInterfaceImpl.java" />
         <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo04GenericInterface.java" />
         <option value="$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo05Generic.java" />
@@ -117,6 +107,24 @@
         <option value="$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes/day04-code/src/xw/Map/demo04/Demo01JDK9.java" />
         <option value="$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes/day04-code/src/xw/Map/demo05/Demo01Debug.java" />
         <option value="$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes/day04-code/src/xw/Map/demo06/DouDiZhu.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo01Exception.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo02Exception.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo03Throw.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo04Objects.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo05Throws.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo02/Demo01TryCatch.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo02/Demo02TryCatchFinally.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo03/Demo01Exception.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo03/Demo02Exception.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo03/Fu.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo04/RegisterException.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo04/Demo01RegisterException.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo04/Demo02RegisterException.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo05/Person.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo05/Demo01MainThread.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo06/MyThread.java" />
+        <option value="$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo06/Demo01Thread.java" />
       </list>
     </option>
   </component>
@@ -154,53 +162,38 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="ExceptionAndThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day02-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day05-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-              <item name="demo04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day04-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day04-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="advanced-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day04-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Map" type="462c0819:PsiDirectoryNode" />
+              <item name="ExceptionAndThread" type="462c0819:PsiDirectoryNode" />
+              <item name="demo06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,10 +203,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../day05_异常、线程/codes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xw.ExceptionAndThread.demo04" />
       <recent name="xw.Collection.demo03" />
     </key>
   </component>
@@ -229,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DouDiZhu (1)">
+  <component name="RunManager" selected="Application.Demo01Thread">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -237,14 +231,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Demo01Debug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo01Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.Map.demo05.*" />
+          <option name="PATTERN" value="xw.ExceptionAndThread.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.Map.demo05.Demo01Debug" />
+      <option name="MAIN_CLASS_NAME" value="xw.ExceptionAndThread.demo03.Demo01Exception" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -253,17 +247,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day04-code" />
+      <module name="day05-code" />
       <envs />
     </configuration>
-    <configuration name="Demo01JDK9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo01MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.Map.demo04.*" />
+          <option name="PATTERN" value="xw.ExceptionAndThread.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.Map.demo04.Demo01JDK9" />
+      <option name="MAIN_CLASS_NAME" value="xw.ExceptionAndThread.demo05.Demo01MainThread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -272,17 +266,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day04-code" />
+      <module name="day05-code" />
       <envs />
     </configuration>
-    <configuration name="Demo03MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo01RegisterException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.Map.demo03.*" />
+          <option name="PATTERN" value="xw.ExceptionAndThread.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.Map.demo03.Demo03MapTest" />
+      <option name="MAIN_CLASS_NAME" value="xw.ExceptionAndThread.demo04.Demo01RegisterException" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -291,17 +285,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day04-code" />
+      <module name="day05-code" />
       <envs />
     </configuration>
-    <configuration name="DouDiZhu (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo01Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.Map.demo06.*" />
+          <option name="PATTERN" value="xw.ExceptionAndThread.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.Map.demo06.DouDiZhu" />
+      <option name="MAIN_CLASS_NAME" value="xw.ExceptionAndThread.demo06.Demo01Thread" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -310,17 +304,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day04-code" />
+      <module name="day05-code" />
       <envs />
     </configuration>
-    <configuration name="DouDiZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo02Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="xw.Collection.demo04.*" />
+          <option name="PATTERN" value="xw.ExceptionAndThread.demo03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="xw.Collection.demo04.DouDiZhu" />
+      <option name="MAIN_CLASS_NAME" value="xw.ExceptionAndThread.demo03.Demo02Exception" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -329,7 +323,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="day02-code" />
+      <module name="day05-code" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -407,19 +401,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Demo03MapTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo01JDK9" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Demo01Debug" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DouDiZhu" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DouDiZhu (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Demo01Exception" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Demo02Exception" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo01RegisterException" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Demo01MainThread" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Demo01Thread" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DouDiZhu (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DouDiZhu" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo01Debug" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo01JDK9" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Demo03MapTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo01Thread" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo01MainThread" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo01RegisterException" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo02Exception" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo01Exception" />
       </list>
     </recent_temporary>
   </component>
@@ -446,12 +440,20 @@
       <workItem from="1589932909553" duration="3746000" />
       <workItem from="1589944760132" duration="13765000" />
       <workItem from="1590022979331" duration="15446000" />
-      <workItem from="1590102148612" duration="11558000" />
+      <workItem from="1590102148612" duration="11826000" />
+      <workItem from="1590135084625" duration="4766000" />
+      <workItem from="1590190289378" duration="19183000" />
+      <workItem from="1590287688117" duration="182000" />
+      <workItem from="1590288745262" duration="188000" />
+      <workItem from="1590289142219" duration="211000" />
+      <workItem from="1590289573312" duration="308000" />
+      <workItem from="1590309579559" duration="8691000" />
+      <workItem from="1590394775130" duration="5195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112976000" />
+    <option name="totallyTimeSpent" value="151968000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +466,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -479,7 +480,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21633889" sideWeight="0.4918033" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21028744" sideWeight="0.4918033" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22919819" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -512,139 +513,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day01-code/src/xw/API/demo06/Demo02StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01-code/src/xw/API/demo06/Demo03StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01-code/src/xw/API/demo07/Demo01Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01-code/src/xw/API/demo07/Demo02Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day01-code/src/xw/API/demo07/Demo03Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo01/Demo01Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="27" column="73" lean-forward="false" selection-start-line="27" selection-start-column="73" selection-end-line="27" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo02/Demo02ForEach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo02/Demo01Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo01Generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo02GenericClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo03GenericMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo06Generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo05Generic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericInterfaceImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/GenericInterfaceImpl1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/demo03/Demo04GenericInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../day02_Collection、泛型/codes/day02-code/src/xw/Collection/Demo04.java" />
     <entry file="jar://E:/JavaEE_Enviroment/JDK9/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -678,10 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="245" column="76" lean-forward="true" selection-start-line="245" selection-start-column="8" selection-end-line="245" selection-end-column="76" />
-          <folding>
-            <element signature="e#10225#10226#0" expanded="false" />
-            <element signature="e#10308#10309#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -816,9 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,9 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
           <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -836,9 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="32" column="31" lean-forward="false" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,9 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-101">
           <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -856,7 +708,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes/day04-code/src/xw/Map/demo06/DouDiZhu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="106" column="19" lean-forward="false" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -864,17 +722,150 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo01Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo02Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo03Throw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo04Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo01/Demo05Throws.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo02/Demo02TryCatchFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo02/Demo01TryCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo03/Demo01Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="74" column="39" lean-forward="false" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo03/Demo02Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo03/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JavaEE_Enviroment/JDK9/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo04/Demo02RegisterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo04/Demo01RegisterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo04/RegisterException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="71" selection-end-line="18" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo05/Demo01MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="18" column="66" lean-forward="false" selection-start-line="18" selection-start-column="66" selection-end-line="18" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../day04_Map、斗地主案例/codes/day04-code/src/xw/Map/demo06/DouDiZhu.java">
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo05/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="111" column="29" lean-forward="true" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo06/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../day05_异常、线程/codes/day05-code/src/xw/ExceptionAndThread/demo06/Demo01Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
