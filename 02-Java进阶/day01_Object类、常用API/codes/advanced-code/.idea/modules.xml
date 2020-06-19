@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/../../../day06_线程、同步/codes/day06-code/day06-code.iml" filepath="$PROJECT_DIR$/../../../day06_线程、同步/codes/day06-code/day06-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../day07_等待与唤醒案例、线程池、Lambda表达式/codes/day07-code/day07-code.iml" filepath="$PROJECT_DIR$/../../../day07_等待与唤醒案例、线程池、Lambda表达式/codes/day07-code/day07-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../day08_File类、递归/codes/day08-code/day08-code.iml" filepath="$PROJECT_DIR$/../../../day08_File类、递归/codes/day08-code/day08-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../day09_字节流、字符流/codes/day09-code/day09-code.iml" filepath="$PROJECT_DIR$/../../../day09_字节流、字符流/codes/day09-code/day09-code.iml" />
     </modules>
   </component>
 </project>
