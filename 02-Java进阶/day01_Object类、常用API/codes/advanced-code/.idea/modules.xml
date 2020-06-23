@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/../../../day08_File类、递归/codes/day08-code/day08-code.iml" filepath="$PROJECT_DIR$/../../../day08_File类、递归/codes/day08-code/day08-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../day09_字节流、字符流/codes/day09-code/day09-code.iml" filepath="$PROJECT_DIR$/../../../day09_字节流、字符流/codes/day09-code/day09-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../../day10_缓冲流、转换流、序列化流、Files/codes/day10-code/day10-code.iml" filepath="$PROJECT_DIR$/../../../day10_缓冲流、转换流、序列化流、Files/codes/day10-code/day10-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../day11_网络编程/codes/day11-code/day11-code.iml" filepath="$PROJECT_DIR$/../../../day11_网络编程/codes/day11-code/day11-code.iml" />
     </modules>
   </component>
 </project>
