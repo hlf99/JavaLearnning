@@ -27,14 +27,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42452db2-bdba-4896-91d9-8a84468f1279" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo03Predicate_or.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo04Predicate_negate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo05Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo07/Demo01Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo07/Demo02Function_andThen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo07/Demo03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/day13-code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo01/Demo01List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo01/Demo02Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo01GetStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo02Stream_forEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo03Stream_filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo04Stream_map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo05Stream_count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo06Stream_limit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo07Stream_skip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo02/Demo08Stream_concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo03/Demo01StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo03/Demo02StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo04/Demo01Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo04/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo05/Demo01ObjectMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo05/MethodRerObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo05/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo06/Calcable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo06/Demo01StaticMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo07/Greetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo07/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo07/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo08/Husband.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo08/Richable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo09/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo09/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo09/PersonBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo10/ArrayBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes/day13-code/src/xw/StreamAndMethodReference/demo10/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo01/Demo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo01/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo01/MyFunctionalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo01/MyFunctionalInterfaceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo02/Demo01Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo02/Demo02Lambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo02/MessageBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo03/LambdaTest/Demo01Runnable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo03/LambdaTest/Demo01Runnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo03/LambdaTest/Demo02Comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo04/Demo01Supplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo04/Demo02Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo05/Demo01Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo05/Demo02AndThen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo05/Demo03Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo06/Demo01Predicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo06/Demo02Predicate_and.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo06/Demo03Predicate_or.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo06/Demo04Predicate_negate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo06/Demo05Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo07/Demo01Function.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo07/Demo02Function_andThen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day012-code/xw/FunctionalInterface/demo07/Demo03Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day03-code/xw/ListAndSet/Collections/Demo03Sort$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03-code/xw/ListAndSet/Collections/Demo03Sort$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day03-code/xw/ListAndSet/Collections/Demo03Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day03-code/xw/ListAndSet/Collections/Demo03Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/day012-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/day12-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo01/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo01/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo01/MyFunctionalInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo01/MyFunctionalInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo01/MyFunctionalInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo01/MyFunctionalInterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo02/Demo01Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo02/Demo01Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo02/Demo02Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo02/Demo02Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo02/MessageBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo02/MessageBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo03/LambdaTest/Demo01Runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo03/LambdaTest/Demo01Runnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo03/LambdaTest/Demo02Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo03/LambdaTest/Demo02Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo04/Demo01Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo04/Demo01Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo04/Demo02Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo04/Demo02Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo05/Demo01Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo05/Demo01Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo05/Demo02AndThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo05/Demo02AndThen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo05/Demo03Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo05/Demo03Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo01Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo06/Demo01Predicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo02Predicate_and.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo06/Demo02Predicate_and.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo03Predicate_or.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo06/Demo03Predicate_or.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo04Predicate_negate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo06/Demo04Predicate_negate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo06/Demo05Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo06/Demo05Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo07/Demo01Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo07/Demo01Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo07/Demo02Function_andThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo07/Demo02Function_andThen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day012-code/src/xw/FunctionalInterface/demo07/Demo03Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day12_函数式接口/codes/day12-code/src/xw/FunctionalInterface/demo07/Demo03Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +116,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,10 +134,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/JavaLearnning/02-Java进阶/day09_字节流、字符流/codes/day09-code/src/xw/IOAndProperties/demo04/Demo02Reader.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../day13_Stream流、方法引用/codes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -74,11 +147,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xw.StreamAndMethodReference.demo05" />
+      <recent name="xw.StreamAndMethodReference.demo03" />
       <recent name="xw.NET.demo04.BSTCP" />
       <recent name="xw.IO.demo05" />
       <recent name="xw.IO.demo02" />
-      <recent name="xw.FileAndRecursion.demo03" />
-      <recent name="xw.FileAndRecursion.demo02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\JavaLearnning\02-Java进阶\day11_网络编程\codes\day11-code" />
@@ -87,7 +160,7 @@
       <recent name="E:\JavaLearnning\02-Java进阶\day06_线程、同步\codes\day06-code\src\xw\Thread\demo08" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Demo03Test">
+  <component name="RunManager" selected="应用程序.Demo (1)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -95,13 +168,13 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Demo01Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xw.FunctionalInterface.demo07.Demo01Function" />
-      <module name="day012-code" />
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xw.StreamAndMethodReference.demo10.Demo" />
+      <module name="day13-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xw.FunctionalInterface.demo07.*" />
+          <option name="PATTERN" value="xw.StreamAndMethodReference.demo10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Function_andThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xw.FunctionalInterface.demo07.Demo02Function_andThen" />
-      <module name="day012-code" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xw.StreamAndMethodReference.demo09.Demo" />
+      <module name="day13-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xw.FunctionalInterface.demo07.*" />
+          <option name="PATTERN" value="xw.StreamAndMethodReference.demo09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +196,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xw.FunctionalInterface.demo07.Demo03Test" />
-      <module name="day012-code" />
+    <configuration name="Demo01StaticMethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xw.StreamAndMethodReference.demo06.Demo01StaticMethodReference" />
+      <module name="day13-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xw.FunctionalInterface.demo07.*" />
+          <option name="PATTERN" value="xw.StreamAndMethodReference.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +210,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Predicate_negate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xw.FunctionalInterface.demo06.Demo04Predicate_negate" />
-      <module name="day012-code" />
+    <configuration name="Husband" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xw.StreamAndMethodReference.demo08.Husband" />
+      <module name="day13-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xw.FunctionalInterface.demo06.*" />
+          <option name="PATTERN" value="xw.StreamAndMethodReference.demo08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +224,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="xw.FunctionalInterface.demo06.Demo05Test" />
-      <module name="day012-code" />
+    <configuration name="Man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xw.StreamAndMethodReference.demo07.Man" />
+      <module name="day13-code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="xw.FunctionalInterface.demo06.*" />
+          <option name="PATTERN" value="xw.StreamAndMethodReference.demo07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,19 +270,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.Demo04Predicate_negate" />
-      <item itemvalue="应用程序.Demo05Test" />
-      <item itemvalue="应用程序.Demo01Function" />
-      <item itemvalue="应用程序.Demo02Function_andThen" />
-      <item itemvalue="应用程序.Demo03Test" />
+      <item itemvalue="应用程序.Demo01StaticMethodReference" />
+      <item itemvalue="应用程序.Man" />
+      <item itemvalue="应用程序.Husband" />
+      <item itemvalue="应用程序.Demo" />
+      <item itemvalue="应用程序.Demo (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Demo03Test" />
-        <item itemvalue="应用程序.Demo02Function_andThen" />
-        <item itemvalue="应用程序.Demo01Function" />
-        <item itemvalue="应用程序.Demo05Test" />
-        <item itemvalue="应用程序.Demo04Predicate_negate" />
+        <item itemvalue="应用程序.Demo (1)" />
+        <item itemvalue="应用程序.Demo" />
+        <item itemvalue="应用程序.Husband" />
+        <item itemvalue="应用程序.Man" />
+        <item itemvalue="应用程序.Demo01StaticMethodReference" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +373,11 @@
       <workItem from="1593144699116" duration="967000" />
       <workItem from="1593147725985" duration="315000" />
       <workItem from="1593162061572" duration="1380000" />
-      <workItem from="1593164890353" duration="9536000" />
+      <workItem from="1593164890353" duration="12821000" />
+      <workItem from="1593244852742" duration="10240000" />
+      <workItem from="1593331068927" duration="1908000" />
+      <workItem from="1593408807687" duration="3347000" />
+      <workItem from="1593424175778" duration="4692000" />
     </task>
     <servers />
   </component>
@@ -345,30 +422,66 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="4" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1593064694074" />
-    <state width="1323" height="122" key="GridCell.Tab.0.bottom" timestamp="1593174849348">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1593424477969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593174849348" />
-    <state width="1323" height="122" key="GridCell.Tab.0.center" timestamp="1593174849347">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593424477969" />
+    <state x="462" y="104" key="FileChooserDialogImpl" timestamp="1593175586260">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="122" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593174849347" />
-    <state width="1323" height="122" key="GridCell.Tab.0.left" timestamp="1593174849347">
+    <state x="462" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593175586260" />
+    <state width="1323" height="144" key="GridCell.Tab.0.bottom" timestamp="1593428884032">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="122" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593174849347" />
-    <state width="1323" height="122" key="GridCell.Tab.0.right" timestamp="1593174849347">
+    <state width="1323" height="144" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593428884032" />
+    <state width="1323" height="144" key="GridCell.Tab.0.center" timestamp="1593428884031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="122" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593174849347" />
+    <state width="1323" height="144" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593428884031" />
+    <state width="1323" height="144" key="GridCell.Tab.0.left" timestamp="1593428884031">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="144" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593428884031" />
+    <state width="1323" height="144" key="GridCell.Tab.0.right" timestamp="1593428884032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="144" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593428884032" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1593413710695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593413710695" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1593413710695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593413710695" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1593413710695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593413710695" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1593413710695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593413710695" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1593165769742">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1593165769742" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593169970744">
+    <state x="595" y="97" key="extract.method.dialog" timestamp="1593255171693">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593169970744" />
+    <state x="595" y="97" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1593255171693" />
+    <state x="213" y="0" key="new project wizard" timestamp="1593175592485">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593175592485" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1593247597225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1593247597225" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1593251840541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1593251840541" />
   </component>
   <component name="masterDetails">
     <states>
