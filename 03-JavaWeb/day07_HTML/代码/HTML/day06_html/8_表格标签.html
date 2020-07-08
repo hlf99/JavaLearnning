@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>表格标签</title>
+</head>
+<body>
+
+<!--
+    cellspacing: 单元格之间的距离
+    cellpadding: 单元格边框与内容的距离
+-->
+<table border="1" width="50%" cellspacing="0" bgcolor="#faebd7" align="center">
+    <tr>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>成绩</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>小龙女</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>杨过</td>
+        <td>92</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>无心</td>
+        <td>99</td>
+    </tr>
+</table>
+
+<hr>
+
+<table border="1" width="50%" cellspacing="0" bgcolor="#faebd7" align="center">
+    <!--
+        align属性：表格标题的显示位置
+            top:顶部，默认的
+            bottom:底部
+            left:
+            right:
+
+    -->
+    <thead>
+        <caption align="bottom">学生信息表</caption>
+        <tr>
+            <th>编号</th>
+            <th>姓名</th>
+            <th>成绩</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr bgcolor="aqua" align="center">
+            <td>1</td>
+            <td>小龙女</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>杨过</td>
+            <td>92</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>无心</td>
+            <td>99</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <!--
+            合并单元格
+                colspan="3"  合并3列
+                rowspan="2"  合并2行
+            -->
+            <td colspan="3">以上人物纯属虚构</td>
+        </tr>
+    </tfoot>
+</table>
+
+<hr>
+
+<table border="1" width="50%" cellspacing="0" bgcolor="#faebd7" align="center">
+    <!--
+        align属性：表格标题的显示位置
+            top:顶部，默认的
+            bottom:底部
+            left:
+            right:
+
+    -->
+    <thead>
+    <caption>学生信息表</caption>
+    <tr>
+        <th rowspan="2">编号</th>
+        <th>姓名</th>
+        <th>成绩</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr bgcolor="aqua" align="center">
+        <td rowspan="2">1</td>
+        <td>小龙女</td>
+        <td>100</td>
+    </tr>
+    <tr>
+<!--        <td>2</td>-->
+        <td>杨过</td>
+        <td>92</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td colspan="2">无心</td>
+        <!--<td>99</td>-->
+    </tr>
+    </tbody>
+    <tfoot>
+    <tr>
+        <!--
+        合并单元格
+            colspan="3"  合并3列
+            rowspan="2"  合并2行
+        -->
+        <td colspan="3">以上人物纯属虚构</td>
+    </tr>
+    </tfoot>
+</table>
+</body>
+</html>
