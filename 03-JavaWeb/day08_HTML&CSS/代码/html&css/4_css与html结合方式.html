@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--内部样式-->
+    <style>
+        div {
+            color: aqua;
+            font-size: 40px;
+        }
+    </style>
+    <!--外部样式-->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!--引入外部样式的另一种方式-->
+    <!--
+    <style>
+        @import "css/style.css";
+    </style>
+    -->
+</head>
+<body>
+
+    <!--
+        内联样式(不推荐使用)
+            在标签内使用style属性指定css代码
+            <div style="color: red">
+                hello css
+            </div>
+
+        内部样式
+            在head标签内，定义style标签，style标签体的内容就是css代码
+            <style>
+                div {
+                    color: aqua;
+                    font-size: 40px;
+                }
+            </style>
+
+        外部样式
+            在head标签内定义一个link标签，link中的href属性指定外部样式的路径
+    -->
+    <div style="color: red">
+        hello html
+    </div>
+
+    <div>
+        hello css
+    </div>
+
+    <div>
+        hello JavaScript
+    </div>
+</body>
+</html>

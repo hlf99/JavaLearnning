@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>扩展选择器</title>
+    <style>
+        div > p {
+            color: antiquewhite;
+            border: 1px solid sandybrown;
+        }
+
+        input[type="text"] {
+            background-color: goldenrod;
+        }
+        a:link {
+            color: goldenrod;
+        }
+        a:hover {
+            color: aquamarine;
+        }
+        a:active {
+            color: yellow;
+        }
+        a:visited {
+            color: cadetblue;
+        }
+    </style>
+</head>
+<body>
+    <!--
+        通配符选择器： * {} 所有的元素
+        并集选择器： p, div {} 选择所有p和div元素
+        交集选择器： div.box {} 选择的是该元素既是div，也有box类名
+        后代选择器： div p {} 选择div的后代元素p
+        子选择器： div > p {} 选择div的直接后代儿子p，而不是孙子。。。
+        属性选择器： 元素名称[属性名="属性值"] {}
+        伪类选择器：
+            link 初始化状态
+            hover 鼠标滑过时的状态
+            active 鼠标点击不松开时的状态
+            visited 点击后的状态
+    -->
+
+    <div>
+        <p>传智播客</p>
+        <div>
+            <span>黑马程序员</span>
+            <p>黑马程序员</p>
+        </div>
+    </div>
+
+    <input type="text">
+    <input type="password">
+    <br><br><br>
+
+    <a href="#">有本事就点我啊</a>
+</body>
+</html>
