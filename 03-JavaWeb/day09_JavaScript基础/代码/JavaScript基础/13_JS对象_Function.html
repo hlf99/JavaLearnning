@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Function对象</title>
+</head>
+<body>
+
+<script>
+    /*
+        Function: 函数（方法）对象
+            1.创建
+                1. var fun = new Function(形参列表, 方法体); // 不推荐
+                2. function 方法名称(形参列表) { 方法体 }
+                    命名函数
+                3. var 方法名 = function () { 方法体 }
+                    匿名函数
+            2.方法
+
+            3.属性
+                length: 代表形参的个数
+            4.特点
+                1. 方法定义时，形参的数据类型不用写
+                2. 方法是一个对象，如果定义名称相同的方法，后面的会覆盖前面的
+                3. 在JS中，方法的调用只与方法的名称有关，和参数列表无关
+                4. 在方法声明中有一个隐藏的内置对象（数组），arguments，它封装了传递的所有实际参数
+            5.调用
+                方法名称(实参列表);
+    */
+
+    // 创建方式1
+    var fun1 = new Function("a", "b", "c", "alert(a)");
+    // 调用方法
+    // fun1(3, 4);
+    console.log(fun1.length);
+
+    // 创建方式2
+    function fun2(a, b) {
+        alert(a + b);
+    }
+
+    // 调用方法
+    // fun2(3, 4);
+    console.log(fun2.length);
+
+    var fun3 = function (a, b) {
+        // alert(a - b);
+        alert(a);
+        alert(b);
+    }
+    // fun3(3, 4);
+    console.log(fun3.length);
+
+    // 传递的实际参数个数可以不与形参个数一样
+    // fun3(1);
+    // fun3(1, 2);
+    // fun3(1, 2, 3);
+    // fun3();
+
+    /*
+    *   求两个数的和
+    * */
+    // function add(a, b) {
+    //     return a + b;
+    // }
+    // alert(add(1, 2));
+
+    /*
+    * 求任意个数的和
+    * */
+        function add() {
+            var sum = 0;
+            for (var i = 0; i < arguments.length; i++) {
+                sum += arguments[i];
+            }
+        return sum;
+    }
+    alert(add(1, 2, 3, 4));
+</script>
+</body>
+</html>

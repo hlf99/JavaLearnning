@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>比较运算符</title>
+</head>
+<body>
+
+<script>
+    /*
+    *   比较运算符
+    *       1.类型相同：直接比较
+    *           字符串比较：按照字母顺序逐个字母比较，越后面的字母越大
+    *       2.类型不同：先进行类型转换，再比较
+    *           ==: 只比较值得大小，不比较类型
+    *           ===：全等于，先要比较类型，在比较大小
+    * */
+
+    console.log(3 > 4); // false
+    console.log("abc" < "adb"); // false
+
+    console.log("123" == 123); // true
+    console.log("123" === 123); // false
+</script>
+</body>
+</html>

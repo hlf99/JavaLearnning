@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>逻辑运算符</title>
+</head>
+<body>
+
+<script>
+    /*
+    *   逻辑运算符
+    *      &&：与（短路）
+    *      ||：或（短路）
+    *       !：非
+    *
+    *   以下几种类型转换为boolean类型为false:
+    *       0、NaN、空字符串、null、undefined
+    *   * 除以上几种之外的数据类型转换为boolean都为true
+    * */
+    var b1 = 0;
+    var b2 = NaN;
+    var b3 = "";
+    var b4 = null;
+    var b5 = undefined;
+    console.log(!!b1); // false
+    console.log(!!b2); // false
+    console.log(!!b3); // false
+    console.log(!!b4); // false
+    console.log(!!b5); // false
+
+</script>
+</body>
+</html>

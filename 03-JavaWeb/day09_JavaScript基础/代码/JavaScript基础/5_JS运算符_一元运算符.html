@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>一元运算符</title>
+</head>
+<body>
+
+<script>
+    var num = 3;
+    var a = ++num;
+    console.log(a); // 4
+    console.log(num); // 4
+
+    var b = +"123abc0";
+    console.log(typeof b); // number
+    console.log(b + 1); // NaN
+
+    var f1 = true;
+    var f2 = false;
+    console.log(f1 + "---" + typeof(f1)); // true --- boolean
+    console.log(f2 + "---" + typeof(f2)); // false --- boolean
+
+    var f1 = +true;
+    var f2 = +false;
+    console.log(f1 + "---" + typeof(f1)); // 1 --- number
+    console.log(f2 + "---" + typeof(f2)); // 0 --- number
+</script>
+</body>
+</html>

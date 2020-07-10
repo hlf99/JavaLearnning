@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Array对象</title>
+</head>
+<body>
+
+<script>
+    /*
+        Date：日期对象
+            1.创建
+                var date = new Date();
+            2. 方法
+                toLocaleString(): 返回当前date对象对应的本地时间字符串格式
+                getTime(): 获取毫秒值。返回当前日期对象的毫秒值到1970年1月1日0点的毫秒值差
+     */
+    var date = new Date();
+    console.log(date); // Fri Jul 10 2020 19:55:06 GMT+0800 (中国标准时间)
+    console.log(date.toLocaleString()); // 2020/7/10 下午7:59:47
+    console.log(date.getTime());
+</script>
+</body>
+</html>

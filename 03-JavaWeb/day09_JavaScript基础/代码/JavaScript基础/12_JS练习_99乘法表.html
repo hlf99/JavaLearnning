@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>99乘法表</title>
+    <style>
+        td {
+            border: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+
+<script>
+    document.write("<table align='center'>");
+    // 外层循环控制行数
+    for (var i = 1; i <= 9; i++) {
+        document.write("<tr>");
+        // 内层循环控制列数
+        for (var j = 1; j <= i; j++) {
+            document.write("<td>");
+            document.write(i + "*" + j + "=" + i * j + "&nbsp;&nbsp;&nbsp;");
+            document.write("</td>");
+        }
+        document.write("</tr>");
+        // 换行输出
+        document.write("<br>")
+    }
+
+    document.write("</table>");
+</script>
+</body>
+</html>
