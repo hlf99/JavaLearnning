@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>事件绑定</title>
+</head>
+<body>
+    <img id="light" src="img/off.gif" alt="" onclick="fun()">
+    <img id="light2" src="img/off.gif" alt="">
+
+    <script>
+        // 绑定事件方式1
+        function fun() {
+            alert("我被点了");
+        }
+
+        // 绑定事件方式2
+        var light2 = document.getElementById("light2");
+        light2.onclick = function () {
+            alert("我也被点了");
+        };
+    </script>
+</body>
+</html>

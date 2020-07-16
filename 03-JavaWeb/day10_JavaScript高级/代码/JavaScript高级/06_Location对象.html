@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Location对象</title>
+</head>
+<body>
+
+<input id="reloadBtn" type="button" value="刷新">
+<input id="goLunbotu" type="button" value="打开轮播图页面">
+
+    <script>
+        // reload方法，定义一个按钮，点击按钮，刷新当前页面
+        var reloadBtn = document.getElementById("reloadBtn");
+        reloadBtn.onclick = function () {
+            location.reload();
+        }
+
+        // 获取浏览器地址栏的href
+        var href = location.href;
+        console.log(href);
+
+        // 点击按钮，跳转到轮播图页面
+        var goLunbotu = document.getElementById("goLunbotu");
+        goLunbotu.onclick = function () {
+            location.href = "05_案例2_轮播图.html";
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>History对象</title>
+</head>
+<body>
+
+    <img id="img" src="img/banner_1.jpg" alt="" width="100%">
+    <input type="button" id="back" value="后退">
+
+    <script>
+        /*
+            分析：
+                1.在页面上使用img标签展示图片
+                2.定义一个方法，修改图片对象的src属性
+                3.定义一个定时器，每隔3秒调用一次方法
+        */
+
+        // 1.修改图片的src属性
+        var number = 1;
+        function show() {
+            // 每调用一次该方法，number都要+1
+            number++;
+            // 判断number是否大于3
+            if (number > 3) {
+                // 如果number大于3，则给number赋值为1，恢复默认值
+                number = 1;
+            }
+
+            // 获取img对象
+            var img = document.getElementById("img");
+            img.src = "img/banner_" + number + ".jpg";
+        }
+
+        // 2.定义定时器
+        setInterval(show, 2000);
+
+        // 获取按钮
+        var back = document.getElementById("back");
+        // 绑定点击事件
+        back.onclick = function () {
+            // 后退
+            // history.back();
+            // 后退一个历史记录
+            history.go(-1);
+        }
+    </script>
+</body>
+</html>

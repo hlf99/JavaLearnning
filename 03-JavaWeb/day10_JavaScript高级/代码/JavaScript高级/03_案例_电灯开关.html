@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>电灯开关</title>
+</head>
+<body>
+    <img src="img/off.gif" alt="" id="light">
+
+    <script>
+        // 获取图片对象
+        var light = document.getElementById("light");
+        // 绑定点击事件
+        // 定义一个变量，用来记录当前电灯的状态，开为true，关为false
+        var flag = false;
+        light.onclick = function () {
+            // 判断当前电灯的状态
+            if (flag) {
+                // 如果电灯为开，将图片换为off.gif
+                light.src = "img/off.gif";
+                // 将flag赋值为false
+                flag = false;
+            } else {
+                // 如果电灯为关，将图片换为on.gif
+                light.src = "img/on.gif";
+                // 将flag赋值为true
+                flag = true;
+            }
+        }
+    </script>
+</body>
+</html>
