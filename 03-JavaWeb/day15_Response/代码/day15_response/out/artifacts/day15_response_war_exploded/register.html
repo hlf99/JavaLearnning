@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<img id="checkCode" src="/day15/checkCodeServlet" alt="">
+<a id="change" href="javascript:void(0)">看不清，换一张？</a>
+
+<script>
+    /*
+        分析：
+            点击超链接或者图片，需要换一张
+            1.给图片和超链接绑定单击事件
+            2.重新设置图片的src属性
+     */
+    // 1.获取图片对象
+    var img = document.getElementById("checkCode");
+    // 2.绑定单击事件
+    img.onclick = next;
+
+    // 获取超链接对象
+    var link = document.getElementById("change");
+    // 绑定单击事件
+    link.onclick = next;
+    /*function () {
+        // 加时间戳
+        var date = new Date().getTime();
+        // 修改src属性
+        img.src = "/day15/checkCodeServlet?" + date;
+    }*/
+
+    // 事件处理函数
+    function next() {
+        // 3.重新设置img的src属性
+        // 加时间戳，让浏览器在每次点击后都会重新访问服务器获取不同的图片，而不是读取缓存中的图片
+        var date = new Date().getTime();
+        img.src = "/day15/checkCodeServlet?" + date;
+    }
+</script>
+</body>
+</html>
