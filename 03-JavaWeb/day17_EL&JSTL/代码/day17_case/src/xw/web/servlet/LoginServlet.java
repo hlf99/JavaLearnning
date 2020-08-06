@@ -18,6 +18,8 @@ import java.util.Map;
 @WebServlet("/loginServlet")
 public class LoginServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        System.out.println(request);
+
         // 1.设置请求编码
         request.setCharacterEncoding("UTF-8");
 
