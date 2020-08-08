@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<script  src="../js/jquery-3.3.1.min.js"></script>
+		<script>
+			$(function () {
+				// 获取到input标签和div标签对象
+				var myinput = $("#myinput");
+				var mydiv = $("#mydiv");
+
+				// 获取myinput 的value值
+				console.log(myinput.val());
+				// 设置myinput 的value值
+				myinput.val("李四");
+
+				// 获取mydiv的标签体内容
+				console.log(mydiv.html());
+				// 设置mydiv的标签体内容
+				mydiv.html("<p>aaa</p>");
+
+				// 获取mydiv文本内容
+				console.log(mydiv.text());
+				// 设置mydiv文本内容
+				mydiv.text("bbb");
+			});
+
+		
+		</script>
+		
+	</head>
+	<body>
+		<input id="myinput" type="text" name="username" value="张三" /><br />
+		<div id="mydiv"><p><a href="#">标题标签</a></p></div>
+	</body>
+</html>

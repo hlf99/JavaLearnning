@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            // 1.使用on给按钮绑定单击事件  click
+            $("#btn").on("click", function () {
+                alert("我被单击了...");
+            }).on("mouseover", function () {
+                alert("我被侵入了...");
+            });
+
+            // 2. 使用off解除btn按钮的单击事件
+            $("#btn2").on("click", function () {
+                // 只解除btn按钮上的单击事件
+                //$("#btn").off("click");
+                $("#btn").off(); // 将该元素上的所有事件全部解绑了
+            });
+        });
+
+    </script>
+</head>
+<body>
+<input id="btn" type="button" value="使用on绑定点击事件">
+<input id="btn2" type="button" value="使用off解绑点击事件">
+</body>
+</html>
