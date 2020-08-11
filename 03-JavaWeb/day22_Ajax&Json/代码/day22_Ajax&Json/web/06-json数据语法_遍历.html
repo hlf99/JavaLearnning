@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var person = {"name": "张三", age: 23, 'gender': true};
+
+        var ps = [
+            {"name": "张三", "age": 22, "gender": true},
+            {"name": "李四", "age": 27, "gender": true},
+            {"name": "王五", "age": 19, "gender": false}
+        ];
+
+        // 获取person对象中所有的键和值
+        // for in 循环
+        /*for (var key in person) {
+            // 这样的方式person.key无法获取到值，因为相当于person."name"
+            // console.log(key + ":" + person.key);
+            // 可以使用[]的方式来获取
+            console.log(key + ":" + person[key]);
+        }*/
+
+        // 获取ps中的所有值
+        for (var i = 0; i < ps.length; i++) {
+            var p = ps[i];
+            for (var key in p) {
+                console.log(key + ":" + p[key]);
+            }
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>
